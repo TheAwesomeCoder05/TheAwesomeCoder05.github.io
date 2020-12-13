@@ -1,2 +1,4 @@
 # Crack it! - Integers
-This is a Math game. You can practice some of the Integer concepts here. Visit it at [TheAwesomeCoder05.github.io](https://theawesomecoder05.github.io)
+This is a Math game. You can practice some of the Integer concepts here. Visit it at [TheAwesomeCoder05.github.io](http://bit.ly/CRACKgame)
+
+This repository is licensed under [MIT](../LICENSE) (c) 2019 GitHub, Inc.
